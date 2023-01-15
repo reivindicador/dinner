@@ -1,0 +1,552 @@
+body {
+	background-image: url("Fondo.jpg");
+}
+/*#ca {
+	width: 60px;
+	height: 50px;
+	margin-left: 20px;
+}
+#en {
+	width: 60px;
+	height: 50px;
+	margin-left: 20px;
+}
+#es {
+	width: 60px;
+	height: 50px;
+}
+img{
+	width: 150px;
+	height: 150px;
+}*/
+h1{
+	color: white;
+	font-family: "Lucida Sans Unicode";
+	font-size: 50px;
+	text-align: center;
+}
+#logo1{
+	width: 150px;
+	height: 150px;
+}
+* {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+figure {
+  background-color: white;
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 10px;
+  text-align: center;
+  width: 25%;
+}
+figure img {
+  width: 90%;
+}
+
+figure:hover {
+  z-index: 20;
+}
+#container1 {
+  background-color: white;
+  border-radius: 10px;
+  margin: 100px auto;
+  position: relative;
+  height: 1700px;
+  width: 100%;
+  border-color: black;
+}
+#container2 {
+  background-color: white;
+  border-radius: 10px;
+  margin: 100px auto;
+  position: relative;
+  height: 4400px;
+  width: 100%;
+  border-color: black;
+}
+#container3 {
+  background-color: white;
+  border-radius: 10px;
+  margin: 100px auto;
+  position: relative;
+  height: 4000px;
+  width: 100%;
+  border-color: black;
+}
+#container4 {
+  background-color: white;
+  border-radius: 10px;
+  margin: 100px auto;
+  position: relative;
+  height: 1300px;
+  width: 100%;
+  border-color: black;
+}
+#container5 {
+  background-color: white;
+  border-radius: 10px;
+  margin: 100px auto;
+  position: relative;
+  height: 2700px;
+  width: 100%;
+  border-color: black;
+}
+#container1 nav {
+  background-color: #555555;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0px;
+  z-index: 100;
+  border-radius: 10px;
+  border-color: #000000;
+  font-size: 23px;
+  font-family: "Century Gothic";
+}
+#container2 nav {
+  background-color: #555555;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0px;
+  z-index: 100;
+  border-radius: 10px;
+  border-color: #000000;
+  font-size: 23px;
+  font-family: "Century Gothic";
+}
+#container3 nav {
+  background-color: #555555;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0px;
+  z-index: 100;
+  border-radius: 10px;
+  border-color: #000000;
+  font-size: 23px;
+  font-family: "Century Gothic";
+}
+#container4 nav {
+  background-color: #555555;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0px;
+  z-index: 100;
+  border-radius: 10px;
+  border-color: #000000;
+  font-size: 23px;
+  font-family: "Century Gothic";
+}
+#container5 nav {
+  background-color: #555555;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0px;
+  z-index: 100;
+  border-radius: 10px;
+  border-color: #000000;
+  font-size: 23px;
+  font-family: "Century Gothic";
+}
+#container1 nav div {
+  color: #ffffff;
+  display: inline-block;
+  padding: 20px;
+  width: 19%;
+  height: 50px;
+}
+#container2 nav div {
+  color: #ffffff;
+  display: inline-block;
+  padding: 20px;
+  width: 19%;
+  height: 50px;
+}
+#container3 nav div {
+  color: #ffffff;
+  display: inline-block;
+  padding: 20px;
+  width: 19%;
+  height: 50px;
+}
+#container4 nav div {
+  color: #ffffff;
+  display: inline-block;
+  padding: 20px;
+  width: 19%;
+  height: 50px;
+}
+#container5 nav div {
+  color: #ffffff;
+  display: inline-block;
+  padding: 20px;
+  width: 19%;
+  height: 50px;
+}
+
+#container1 div .title h1{
+	text-align: center;
+	font-size: 50px;
+	font-family: Lucida Sans Unicode;
+	color: black;
+}
+#container2 div .title h1{
+	text-align: center;
+	font-size: 50px;
+	font-family: Lucida Sans Unicode;
+	color: black;
+}
+#container3 div .title h1{
+	text-align: center;
+	font-size: 50px;
+	font-family: Lucida Sans Unicode;
+	color: black;
+}
+#container4 div .title h1{
+	text-align: center;
+	font-size: 50px;
+	font-family: Lucida Sans Unicode;
+	color: black;
+}
+#container5 div .title h1{
+	text-align: center;
+	font-size: 50px;
+	font-family: Lucida Sans Unicode;
+	color: black;
+}
+#container1 .nav-item a {
+	color: white;
+}
+#container2 .nav-item a {
+	color: white;
+}
+#container3 .nav-item a {
+	color: white;
+}
+#container4 .nav-item a {
+	color: white;
+}
+#container5 .nav-item a {
+	color: white;
+}
+#container1 .description a{
+	color: grey;
+}
+#container2 .description a{
+	color: grey;
+}
+#container3 .description a{
+	color: grey;
+}
+#container4 .description a{
+	color: grey;
+}
+#container5 .description a{
+	color: grey;
+}
+#p1es{
+	font-family: "Times New Roman";
+	font-size: 40px;
+	text-align: center;
+}
+#p2es{
+	font-family: "Lucida Sans Unicode";
+	font-size: 40px;
+	text-align: center;
+}
+#ralph{
+	width: 240px;
+	height: 220px;
+}
+#heart{
+	width: 240px;
+	height: 220px;
+	text-align: center;
+}
+#occidente{
+	width: 700px;
+	height: 440px;
+	display:block;
+	margin:auto;
+}
+#din1{
+	width: 1600px;
+	height: 900px;
+	display:block;
+	margin:auto;
+}
+#listacatalogo{
+	font-family: "Century Gothic";
+	font-size: 20px;
+	margin-left: 100px;
+}
+#java{
+	position: absolute;
+	margin-left: 800px;
+}
+#bebida{
+	position: absolute;
+	margin-left: 800px;
+	margin-top: 650px;
+}
+#thieb{
+	position: absolute;
+	margin-left: 800px;
+	margin-top: 1200px;
+	width: 400px;
+	height: 300px;	
+}
+#ensalada{
+	position: absolute;
+	margin-left: 800px;
+	margin-top: 1500px;
+	width: 400px;
+	height: 300px;
+}
+#muffin{
+	position: absolute;
+	margin-left: 500px;
+	margin-top: 1790px;
+	width: 300px;
+	height: 300px;
+}
+.tabla2{
+  margin-top: 2em;
+}
+
+.tabla2 th, .tabla2 td{
+  text-align: center;
+  padding: .2em .5em;
+  border: 1px solid black;
+}
+
+.tabla2 caption{
+  text-align: left;
+  margin-bottom: 5px;
+  font-variant: small-caps;
+  font-size: 20px;
+  letter-spacing: 5px;
+}
+
+.tabla2 td{
+  text-align: left;
+  font-size: .8em;
+  padding-bottom: 3em;
+  padding-right: 3em;
+}
+
+.tabla2 td:hover{
+  background-color: white;
+  cursor: pointer;
+  font-size: 1.6em;
+  text-align: center;
+  padding: 0;
+}
+.galeria{
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+	width: 95%;
+	margin: auto;
+	grid-gap: 10px;
+	padding: 40px 0;
+	overflow: hidden;
+}
+
+.galeria > a{
+	display: block;
+	position: relative;
+	overflow: hidden;
+	box-shadow: 0 0 6px rgba(0, 0, 0, .5);
+}
+
+.galeria img{
+	width: 100%;
+	vertical-align: top;
+	height: 300px;
+	object-fit: cover;
+	transition: transform 0.5s;
+}
+
+.galeria a:hover img{
+	filter: blur(2px);
+	transform: rotate(10deg) scale(1.3)
+}
+
+.light-box{
+	position: fixed;
+	top: 0;
+	left: 0;
+	background: rgba(0,0,0,.5);
+	transition: transform .3s ease-in-out;
+	width: 100%;
+	height: 100vh;
+	z-index: 1000;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	transform: scale(0);
+}
+
+.light-box img{
+	width: 75vw;
+	max-height: 70vh;
+}
+
+.light-box:target{
+	transform: scale(1);
+}
+.close{
+	display: block;
+	position: absolute;
+	top: 10px;
+	right: 40px;
+	background: #851919;
+	color: #fff;
+	text-decoration: none;
+	width: 40px;
+	height: 40px;
+	text-align: center;
+	line-height: 40px;
+	border-radius: 50px;
+}
+
+.next{
+	display: block;
+	background: #000;
+	color: #fff;
+	width: 30px;
+	height: 30px;
+	/*position: absolute;*/
+	line-height: 30px;
+	text-decoration: none;
+	text-align: center;
+	/*border-radius: 50px;*/
+}
+
+@media screen and (max-width:400px){
+	.galeria{
+		grid-template-column: repeat(auto-fit, minmax(200px, 1fr));
+	}
+	
+	.close{
+		top: 20px;
+		right: 20px;
+	}
+}
+
+.contacto-container{
+	max-width: 960px;
+	margin: auto;
+	width: 100%;
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	gap: 1.5rem;
+	background: black;
+	box-shadow: 0 0 1rem hsla(0 0 0 / 16%);
+	border-radius: 0.5rem;
+	overflow: hidden;
+	}
+	
+.formulario-container{
+	padding: 20px;
+}
+
+.formulario-container h3{
+	font-size: 1.2rem;
+	font-weight: 600;
+	margin-bottom: 1rem;
+	color: white;
+	font-family: Lucida Sans Unicode;
+}
+
+.contacto-formulario{
+	display: grid;
+	row-gap: 1rem;
+}
+
+.contacto-formulario input, .contacto-formulario textarea{
+	width:100%;
+	border: none;
+	outline: none;
+	background: white;
+	padding: 10px;
+	font-size: 0.9rem;
+	color: #fff;
+	border-radius: 0.4rem;
+}
+
+.contacto-formulario textarea{
+	resize: none;
+	height: 200px;
+	color: black;
+}
+
+.contacto-formulario input{
+	color: black;
+}
+
+.contacto-formulario .send-button{
+	border: none;
+	outline: none;
+	background: grey;
+	font-size: 1rem;
+	font-weight: 500;
+	text-transform: uppercase;
+	cursor: pointer;
+}
+
+.contacto-formulario .send-button:hover{
+	background: hs1(181,100%,44% 0.8);
+	transition: 0.3s all linear;
+}
+
+.mapa iframe{
+	width: 100%;
+	height: 100%;
+}
+
+@media (max-width: 964px){
+	.contacto-container{
+		margin: 0 auto;
+		width: 90%;
+	}
+}
+
+@media (max-width: 700px){
+	.contacto-container{
+		grid-template-columns: 1fr;
+		gap: 1rem;
+		margin-top: 20rem !important;
+	}
+	.mapa iframe{
+		height: 400px;
+	}
+}
+
+#socialmedia{
+	width: 150px;
+	height: 150px;
+	margin-left: 20px;
+}
+
+.archivo-container input[type="file"] {
+	display: none;
+}
+
+.archivo-container label {
+	color: black;
+	height: 60px;
+	width: 250px;
+	background-color: grey;
+	margin: auto;
+	top: 2000px;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	font-size: 20px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: "Lucida Sans Unicode" ;
+	cursor: pointer;
+}
