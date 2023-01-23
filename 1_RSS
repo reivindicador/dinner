@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss>
+	<channel>
+	<title>Dinner</title>
+	<link>https://reivindicador.github.io/dinner/1.Index.html</link>
+	<description>Página principal de Dinner</description>
+
+		<item>
+      <title>Horario de Verano</title>
+	    <link>https://reivindicador.github.io/dinner/1.Index.html</link>
+	    <description>Cambios de ell nuevo horario de verano</description>
+		</item>
+		
+      <item>
+      <title>Cierre fin de año</title>
+	    <link>https://reivindicador.github.io/dinner/1.Index.html</link>
+	    <description>Cerramos en fin de año</description>
+		</item>
+		
+      <item>
+      <title>San Vaklentin</title>
+	    <link>https://reivindicador.github.io/dinner/1.Index.html</link>
+	    <description>Especial San Valentin</description>
+		</item>
+	</channel>
+</rss>
