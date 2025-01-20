@@ -1,26 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 	<channel>
-	<title>Dinner</title>
-	<link>https://reivindicador.github.io/dinner/1.Index.html</link>
-	<description>Página principal de Dinner</description>
+		<title>Dinner</title>
+		<link>https://reivindicador.github.io/dinner/1.Index.html</link>
+		<description>Página principal de Dinner</description>
 
 		<item>
-      <title>Trabaja con nosotros</title>
-	    <link>https://reivindicador.github.io/dinner/5.Contacto.html</link>
-	    <description>¿Quieres trabajar con nosotros? ¡Comparte tu currículum!</description>
+      			<title>Trabaja con nosotros</title>
+	    		<link>https://reivindicador.github.io/dinner/5.Contacto.html</link>
+	    		<description>¿Quieres trabajar con nosotros? ¡Comparte tu currículum!</description>
 		</item>
 		
-      <item>
-      <title>Actualización del catálogo</title>
-	    <link>https://reivindicador.github.io/dinner/3.Gastronomia.html</link>
-	    <description>Hemos actualizado el catálogo añadiendo nuevos platos</description>
+      		<item>
+      			<title>Actualización del catálogo</title>
+	    		<link>https://reivindicador.github.io/dinner/3.Gastronomia.html</link>
+	    		<description>Hemos actualizado el catálogo añadiendo nuevos platos</description>
 		</item>
 		
-      <item>
-      <title>Actualización de la galería</title>
-	    <link>https://reivindicador.github.io/dinner/4.Galeria.html</link>
-	    <description>Hemos añadido nuevas fotos. Ve a verlas</description>
+      		<item>
+      			<title>Actualización de la galería</title>
+	    		<link>https://reivindicador.github.io/dinner/4.Galeria.html</link>
+	    		<description>Hemos añadido nuevas fotos. Ve a verlas</description>
+		</item>
+		<item>
+      			<title>Horario de Verano</title>
+	    		<link>https://reivindicador.github.io/dinner/1.Index.html</link>
+	    		<description>Cambios de ell nuevo horario de verano</description>
+		</item>
+		
+      		<item>
+      			<title>Cierre fin de año</title>
+	    		<link>https://reivindicador.github.io/dinner/1.Index.html</link>
+	    		<description>Cerramos en fin de año</description>
+		</item>
+		
+      		<item>
+      			<title>San Vaklentin</title>
+	    		<link>https://reivindicador.github.io/dinner/1.Index.html</link>
+	    		<description>Especial San Valentin</description>
 		</item>
 	</channel>
 </rss>
